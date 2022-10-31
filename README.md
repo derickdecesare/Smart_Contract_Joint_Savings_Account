@@ -16,8 +16,8 @@ This is a joint savings account built using solidity smart contracts to allow us
 
 ---
 
-## Updated Contract Balance Showing 11 Eth (converted to Wei):
-![updated](Execution_Results/Updated_Contract_Balance2.png)
+## Deposit 5 Eth into Smart Contract and Show Current Account Balance:
+![deposit2](Execution_Results/balance3.png)
 
 ---
 
