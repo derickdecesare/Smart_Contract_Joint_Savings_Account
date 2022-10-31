@@ -17,7 +17,7 @@ This is a joint savings account built using solidity smart contracts to allow us
 ---
 
 ## Deposit 5 Eth into Smart Contract and Show Current Account Balance:
-![deposit2](Execution_Results/balance3.png)
+![balance3](Execution_Results/Balance3.png)
 
 ---
 
